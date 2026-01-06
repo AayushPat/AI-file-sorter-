@@ -23,8 +23,8 @@ An intelligent file organization assistant powered by local AI (Ollama) with a r
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ai-file-organizer.git
-cd ai-file-organizer
+git clone https://github.com/AayushPat/AI-file-sorter-.git
+cd AI-file-sorter-
 ```
 
 2. Create a virtual environment:
