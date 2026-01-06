@@ -1,0 +1,16 @@
+# Core dependencies
+PyQt6>=6.0.0
+requests>=2.25.0
+
+# File content reading dependencies (optional - install as needed)
+# For PDF reading:
+PyPDF2>=3.0.0
+# Alternative: pdfplumber>=0.9.0
+
+# For Office documents:
+python-docx>=0.8.11
+openpyxl>=3.0.9
+
+# For image metadata:
+Pillow>=9.0.0
+
