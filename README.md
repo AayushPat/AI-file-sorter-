@@ -18,6 +18,8 @@ An intelligent file organization assistant powered by local AI (Ollama) with a r
 - Python 3.12+
 - Ollama installed and running locally
 - At least one Ollama model (e.g., llama3.1:8b, llama3.2:3b)
+- I used the qwen 2.5:14b- instruct but 14b was difficult to run and took forever even on my pc.
+      Would recommend 7b just will require to give the ai more context
 
 ## Installation
 
